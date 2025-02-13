@@ -64,7 +64,11 @@
 // document.write(sample)
 
 
-                // Assignments # 03
+
+
+                                    // Assignments # 03
+
+
 
 // 1.               
 // var age = "I am 23 years old "
@@ -82,5 +86,70 @@
 // document.write(birthYear)
 
 
+// 4. A visitor visits an online clothing store
+// www.xyzClothing.com . Write a script to store in variables
+// the following information:
+// a. Visitor’s name
+// b. Product title
+// c. Quantity i.e. how many products a visitor wants to
+// order
+// Show the following message in your browser: “John
+// Doe ordered 5 T-shirt(s) on XYZ Clothing store”.
+
+// var visitor = "John Doe ordered 5 T-shirt(s) on XYZ Clothing store"
+// document.write(visitor)
 
 
+
+
+
+
+                                    // Assignments # 04
+
+
+
+
+
+// 1. Declare 3 variables in one statement.
+
+// var demo1 = "abdullah", demo2 = "muhammad", demo3 = "hadi"
+
+
+// 2. Declare 5 legal & 5 illegal variable names.
+
+// Legal Variables
+// 1. var $age = 23
+// 2. var _name = "hadi"
+// 3. var userName = "hadim8455"
+// 4. var hadiM123 = "userName"
+// 5. var hadi_1234 = "password"
+
+// Illegal Variables
+// 1. var *age = 23
+// 2. var 123name = "hadi"
+// 3. var *&^%$ = 123
+// 4. var 1234 = 432
+// 5. var let = 231
+
+
+// 3. Display this in your browser
+// a) A heading stating “Rules for naming JS variables”
+// b) Variable names can only contain ______, ______,
+// ______ and ______.
+// For example $my_1stVariable
+// c) Variables must begin with a ______, ______ or
+// _____. For example $name, _name or name
+// d) Variable names are case _________
+// e) Variable names should not be JS _________
+
+
+document.write("<b>Rules for naming JS variables</b>")
+
+document.write("<br/><br/>")
+document.write("a. Variable names can only contain  Letters, $ and  _ . For example $my_1stVariable")
+document.write("<br/>")
+document.write("b. Variables must begin with a Letters, _ or $. For example $name, _name or name")
+document.write("<br/>")
+document.write("c. Variable names are case sensitive")
+document.write("<br/>")
+document.write("d. Variable names should not be JS keywords")
