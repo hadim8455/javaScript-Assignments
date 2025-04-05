@@ -329,11 +329,45 @@
 
 
 
+// 8. Store total marks & marks obtained by a student in 2
+// variables. Compute the percentage & show the result in
+// your browser
+
+
+// Answer No 8
+
+// var totalMarks = 980
+// var obtainMarks = 750
+// var percentage = obtainMarks / totalMarks * 100
+
+// document.write("Mark Sheet", "</br>", "</br>")
+// document.write("Total Marks: ", totalMarks, "</br>")
+// document.write("Obtain Marks: ", obtainMarks, "</br>")
+// document.write("Percentage: ", percentage)
 
 
 
 
+// 9. Assume we have 10 US dollars & 25 Saudi Riyals. Write a
+// script to convert the total currency to Pakistani Rupees.
+// Perform all calculations in a single expression.
+// (Exchange rates : 1 US Dollar = 104.80 Pakistani Rupee
+// and 1 Saudi Riyal = 28 Pakistani Rupee)
 
 
+
+// Answer No 9
+
+// var dollar = 10
+// var riyal = 28
+
+// var Pkr = dollar * 104.80
+// var saudi = riyal * 25
+// var finalExchange = Pkr + saudi
+
+// document.write("Curreny Exchange", "</br>", "</br>")
+// document.write("10 US Dollar Convert in Pkr: ", Pkr, "</br>")
+// document.write("28 Saudi Riyal Convert in Pkr: ", saudi , "</br>", "</br>")
+// document.write("Final Exchange Amount US & Saudi Convert in Pkr: ", finalExchange)
 
 
